@@ -24,6 +24,7 @@ P.S.
 Hold C on the title screen to activate the credits.
 
 
+
 DE:
 
 Spladoom Anleitung
